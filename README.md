@@ -1,2 +1,3 @@
 # GnomeStyles
-GnomeStyles is a visual way to customize how GNOME looks.
+/home/rleon/.local/share/gnome-shell/extensions
+Direccion de las ext
