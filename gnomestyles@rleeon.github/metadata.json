@@ -1,0 +1,8 @@
+{
+  "name": "GnomeStyles",
+  "description": "Customize how GNOME looks.",
+  "uuid": "gnomestyles@rleeon.github",
+  "shell-version": [
+    "48"
+  ]
+}
