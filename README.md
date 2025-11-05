@@ -9,17 +9,17 @@ Direccion de las ext, para quein lo lea, esto es solo para mi, para recordar etc
 
 .
 
-├── extension.js
+├── extension.js         Esto es como el corazon de la extension, donde ocurren las cosas que yo quiero, osea como si yo quiero un icono nuevo pues aqui lo hago.
 
-├── metadata.json
+├── metadata.json      Describe la extension
 
-├── prefs.js
+├── prefs.js        Esto define la ventana de configuración que se abre al pulsar “Configuración” en la app de extensiones.
 
-├── schemas
+├── schemas        Esto es lo que hay dentro de esa configuracion, casi que lo mas importante.
 
-│   ├── gschemas.compiled
+│   ├── gschemas.compiled          Esto es lo mismo que abajo pero copilado, osea no lo tengo que tocar creo, simplemente se genera solo.
 
-│   └── org.gnome.shell.extensions.gnomestyles.gschema.xml
+│   └── org.gnome.shell.extensions.gnomestyles.gschema.xml      Son las cosas que puede modificar el usuario como botones, definido con "keys" creo.
 
-└── stylesheet.css
+└── stylesheet.css        CSS para definir como se ve la extension
 
