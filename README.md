@@ -1,3 +1,14 @@
+# Descripción/Ideas
+
+La idea es que la extensión no sea más que una especie de biblioteca en la que hay múltiples estilos visuales, como un pack que trae cosas como temas de grub, terminal, otras extensiones como "Dash to Dock" o "Desktop Cube" si es posible.
+
+Todo esto dentro de la propia configuración de la extensión dentro de la app de extensiones.
+
+Dentro de configuración la idea es que te encuentres con varias ventanas una de ellas con packs que traigan todo en uno sin tener que leer mucho, y otras ventanas donde ya puedes modificar todo más manualmente.
+
+Además me gustaría explorar el poder colocar gif o parecido para poder mostrar el como se ve, o una imagen, esto dentro de el apartado de configuración de la propia app de extensiones.
+
+
 # GnomeStyles
 
 4/11/25
