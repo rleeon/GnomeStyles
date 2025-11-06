@@ -1,8 +1,12 @@
 # GnomeStyles
+
+4/11/25
 /home/rleon/.local/share/gnome-shell/extensions
 
 Direccion de las ext, para quein lo lea, esto es solo para mi, para recordar etc.
 
+
+5/11/25
 ╭─ ~/.lo/sh/gnome-shell/extensions/gnomestyles@rleeon.github ── ✔  12:16:06 ─╮
 
 ╰─ tree                                                                      ─╯
@@ -22,4 +26,9 @@ Direccion de las ext, para quein lo lea, esto es solo para mi, para recordar etc
 │   └── org.gnome.shell.extensions.gnomestyles.gschema.xml      Son las cosas que puede modificar el usuario como botones, definido con "keys" creo.
 
 └── stylesheet.css        CSS para definir como se ve la extension
+
+6/11/25
+
+Con fallos a la hora de darle al botón de Configuración dentro de la app de extensiones, se debe a algo que no cuadra con la versión de la gnome-shell, tendré que mirar info o videos.
+
 
