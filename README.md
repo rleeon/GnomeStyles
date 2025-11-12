@@ -18,6 +18,4 @@ La ventana izquierda tiene el 20-25% de la pantalla mientras la derecha el 70-75
 
 # GnomeStyles
 
-7/11/25
-
-Primera reestructuracion de el proyecto "Lo que pense antes no tenia mucho sentido y falla con cada paso de doy"
+Me queda centrar el titulo de las ventanas, y diseñar que va a ir en cada ventana.
