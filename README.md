@@ -18,4 +18,6 @@ La ventana izquierda tiene el 20-25% de la pantalla mientras la derecha el 70-75
 
 # GnomeStyles
 
-Me queda centrar el titulo de las ventanas, y diseñar que va a ir en cada ventana.
+GnomeStyles provides a simple, unified interface to edit and personalize GNOME: GRUB, wallpapers, extensions, and more.
+
+Remember, select Gnome Styles.
